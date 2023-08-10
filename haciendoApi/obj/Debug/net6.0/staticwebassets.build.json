@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6iVSHusmyB9QtFX192ErQP0emwcQygtBDg2KyXaSuzY=",
+  "Source": "haciendoApi",
+  "BasePath": "_content/haciendoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
